@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a collection of recipes. Written in html, it will have a homepage, and links to other pages with specific recipes. This project utitlies basic functions of html, including, <a> <img> <p> <head> <body>. 
