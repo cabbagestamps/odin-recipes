@@ -1,2 +1,2 @@
 # odin-recipes
-This project is a collection of recipes. Written in html, it will have a homepage, and links to other pages with specific recipes. This project utitlies basic functions of html, including, <a> <img> <p> <head> <body>. 
+This project is a collection of recipes. Written in html, it will have a homepage, and links to other pages with specific recipes. This project utilises basic functions of html, including, <!-- <a> <img> <p> <head> <body> <h1> <ol> <ul> <li> -->. The specific recipe pages have images (absolute or relative links). Sections of the pages are given id attributes and linked with anchors. 
