@@ -1,0 +1,30 @@
+h1 {
+    color:green;
+    text-align: end;
+}
+* {
+    direction: ltr;
+    font-family: Garamond, Verdana, 'Times New Roman', serif;
+    background-color: rgb(224, 224, 222);
+}
+p {
+    font-size: 24px;
+    font-weight: 600;
+    
+}
+li {
+    font-size: 18px;
+    line-height: 2;
+    color:rgb(221, 164, 90)
+}
+img {
+    height: auto;
+    width: 300px;
+    opacity: 0.1;
+}
+a:link {
+  color:rgb(250, 71, 71) ; 
+}
+a:visited {
+    color: rgb(73, 2, 2);
+}
