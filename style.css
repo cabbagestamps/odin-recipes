@@ -1,4 +1,4 @@
-h1 {
+ h1 {
     color: whitesmoke;
     text-align: end;
     background-color: rgb(93, 123, 180);
@@ -13,10 +13,26 @@ h1 {
     background-color: rgb(224, 224, 222);
     font-size: 18px;
 }
-.inpage-link {
-    display: inline-block;
-    margin: 5px;
+
+.inpage-link-top  {
+    margin: auto;
+    width: 1000px;
+}
+.inpage-link-bottom  {
+    margin: 0 0 0 auto;
+}
+.blocker {
+    color: crimson;
+    margin: 338px;
+    width: 100px;
+    height: 100px;
+    display: inline;
     
+}
+.tags {
+    background-color: cornflowerblue;
+    padding: 2px;
+    margin: auto;
 }
 li {
     
@@ -38,18 +54,15 @@ a:visited {
     
     margin: 10px auto;
 }
-h3 {
+h3  {
     font-size: 20px;
     color: whitesmoke;
     background-color: black;
     padding: 5px;
 }
-.tags {
-    background-color:cornflowerblue;
-    width: fit-content;
-    padding: 2px;
-}
+
+    
 .page {
-    margin: 0px auto;
+    margin: 0 auto;
     width: 1000px;
 }
