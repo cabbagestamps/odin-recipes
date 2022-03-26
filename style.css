@@ -70,6 +70,32 @@ h1 {
     justify-self: end;
     align-self: center;
     text-align: end;
+    
+}
+
+.inpage-link {
+    padding: 5px;
+    box-sizing:border-box;
+    height:30px;
+    display: block;
+}
+
+a {
+    text-decoration: none; 
+}
+ 
+a:link {
+     color:brown;
+}
+ 
+a:visited {
+     color:rgb(189, 50, 50)
+}
+ 
+a:hover {
+     color:aliceblue;    
+     font-size: larger;
+     transition: 0.2s;
 }
 
 
