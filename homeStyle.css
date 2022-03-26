@@ -1,0 +1,59 @@
+* {
+    direction: ltr;
+    font-family: Garamond, Verdana, 'Times New Roman', serif;
+    background-color: rgb(224, 224, 222);
+}
+
+img {
+    width: 20em;
+    height: auto;
+    grid-area: image;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    display: flex;
+    justify-content: center; 
+}
+
+li {
+    list-style: none;
+    margin: 5px;
+    box-sizing:border-box;
+    width:200px;
+    height:30px;
+}
+
+a {
+   text-decoration: none; 
+}
+
+a:link {
+    color:brown;
+}
+
+a:visited {
+    color:brown;
+}
+
+a:hover {
+    color:aliceblue;    
+    font-size: larger;
+    transition: 0.2s;
+}
+
+.description {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.description,
+ul {
+    margin: 0;
+}
