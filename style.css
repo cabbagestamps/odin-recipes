@@ -1,11 +1,8 @@
-
 * {
     direction: ltr;
     font-family: Garamond, Verdana, 'Times New Roman', serif;
     background-color: rgb(224, 224, 222);
-    
 }
-
 
 body {
     display: grid;
@@ -17,7 +14,6 @@ body {
         'ingredients  methods'; 
     gap: 15px;
 }
-
 
 @media screen and (max-width: 600px) {
     body {
@@ -45,9 +41,7 @@ body {
         '.. ingredients  methods ..';    
         gap: 15px; 
     }
-
 }
-
 
 img {
     width: 20em;
@@ -70,7 +64,6 @@ h1 {
 .methods {
     grid-area: methods;
 }
-
 
 .tags {
     grid-area: tags;
